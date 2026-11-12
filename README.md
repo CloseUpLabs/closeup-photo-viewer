@@ -28,16 +28,11 @@ work fully offline.
 
 ## Download
 
-The latest installer is published on the [Releases](releases) page — download
-`CloseUp-Setup-<version>.exe` and run it. Installation is per-user: no
-administrator rights are required. The `.sha256` file next to the installer
-holds its checksum.
-
-Updates are built in: **Settings → Updates → Check…** compares your copy with
-the latest release and installs the update in one click.
+The installer will be published on the [Releases](releases) page — check back
+soon. Installation is per-user: no administrator rights are required.
 
 **System requirements:** Windows 10 or newer. No internet connection is
-required after installation — the update check runs only when you start it.
+required after installation.
 
 A free demo mode is built into the app itself — every feature can be tried
 before purchasing a license (AI results carry a demo watermark).
