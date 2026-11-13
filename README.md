@@ -32,7 +32,9 @@ The installer will be published on the [Releases](releases) page — check back
 soon. Installation is per-user: no administrator rights are required.
 
 **System requirements:** Windows 10 or newer. No internet connection is
-required after installation.
+required after installation; the only network feature is an optional
+once-a-day update check (a single version request to GitHub) that can be
+turned off in Settings.
 
 A free demo mode is built into the app itself — every feature can be tried
 before purchasing a license (AI results carry a demo watermark).
