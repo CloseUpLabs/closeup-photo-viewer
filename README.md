@@ -38,7 +38,8 @@ the latest release and installs the update in one click.
 
 **System requirements:** Windows 10 or newer. No internet connection is
 required after installation; the only network feature is an optional
-once-a-day update check (a single version request to GitHub) that can be
+once-a-day update check (a single version request to our server,
+which proxies GitHub Releases) that can be
 turned off in Settings.
 
 Every feature is free to try: AI results carry a subtle demo watermark until
