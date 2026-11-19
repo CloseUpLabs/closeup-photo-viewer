@@ -40,7 +40,9 @@ the latest release and installs the update in one click.
 required after installation; the only network feature is an optional
 once-a-day update check (a single version request to our server,
 which proxies GitHub Releases) that can be
-turned off in Settings.
+turned off in Settings. When you install an update, the installer is
+downloaded from GitHub — or, if GitHub is unreachable, from our mirror
+at getcloseup.app (the release checksum is verified either way).
 
 Every feature is free to try: AI results carry a subtle demo watermark until
 you activate a purchased license key in **Settings → License**.
